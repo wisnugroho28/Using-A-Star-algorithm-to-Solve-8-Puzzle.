@@ -9,4 +9,6 @@ and we nailed did
 this our report from our project 
 
 * Source Code: [Click Here](/AStar8Puzzyle.py)
-* Report: [Click Here](/IF184401_DAA(F)_Q2_05111740000170_Wisnu_05111740000163_Bagas Juwono P_05111740000157_M Amir Fauzan.pdf)
+* Report: [Click Here](/
+        Using-A-Star-algorithm-to-Solve-8-Puzzle./IF184401_DAA(F)_Q2_05111740000170_Wisnu_05111740000163_Bagas Juwono P_05111740000157_M Amir Fauzan.pdf
+      )
